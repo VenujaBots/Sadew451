@@ -1,6 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Venuja Sadew](https://t.me/Venuja_Sadew) | [![Profile views](https://komarev.com/ghpvc/?username=Sadew451&label=Profile%20views)](https://github.com/VenujaBots) 
 
-> `Website:` [Sadew JA](https://sadew451.github.io/) | [Vnd Bots](https://t.me/vndbotsupport)<br>
+> [Vnd Bots](https://t.me/vndbotsupport)<br>
 
 ![VENUJA Git Stats](https://github-readme-stats.vercel.app/api?username=VenujaBots&include_all_commits=true&count_private=true&theme=highcontrast)
  #### Contact me
@@ -14,11 +14,11 @@
 <details>
   <summary> Github Stats </summary>
   <br/>
-<p align="left"> <a href="https://github.com/Sadew451"><img src="https://github-profile-trophy.vercel.app/?username=VenujaBots&no-bg=true" alt="VENUJA" /></a> </p>
+<p align="left"> <a href="https://github.com/VenujaBots"><img src="https://github-profile-trophy.vercel.app/?username=VenujaBots&no-bg=true" alt="VENUJA" /></a> </p>
 </details>
 
 # 📊 Status
-[![Metrics](https://metrics.lecoq.io/Sadew451?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/Venuja_Sadew)
+[![Metrics](https://metrics.lecoq.io/VenujaBots?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/Venuja_Sadew)
  
 
 
